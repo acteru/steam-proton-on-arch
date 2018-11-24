@@ -12,3 +12,4 @@ This repository will show which games are working and how you get them to run on
 - https://www.protondb.com/
 - https://www.gamingonlinux.com/
 - https://lutris.net/
+- https://github.com/ValveSoftware/Proton#runtime-config-options
