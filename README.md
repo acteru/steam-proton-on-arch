@@ -8,4 +8,7 @@ This repository will show which games are working and how you get them to run on
 - Nvidia-Drivers: 415.18 (default arch-repo)
 - Proton: 3.16-4 Beta
 
-There are fixes to get stuff running in the help file
+# Usefull Links:
+- https://www.protondb.com/
+- https://www.gamingonlinux.com/
+- https://lutris.net/
