@@ -7,6 +7,7 @@
 - Mass Effect 2
 - Shadow of the Tomb raider
 - Tropico 6
+- Wolfenstein: The Old Blood
 
 # Just wine
 - Magic the gathering arena

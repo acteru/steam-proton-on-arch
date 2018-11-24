@@ -6,6 +6,6 @@ This repository will show which games are working and how you get them to run on
 - RAM: 16 GB
 - GPU: 1080 GTX
 - Nvidia-Drivers: 415.18 (default arch-repo)
-
+- Proton: 3.16-4 Beta
 
 There are fixes to get stuff running in the help file
