@@ -13,3 +13,4 @@ This repository will show which games are working and how you get them to run on
 - https://www.gamingonlinux.com/
 - https://lutris.net/
 - https://github.com/ValveSoftware/Proton#runtime-config-options
+- https://wiki.archlinux.org/index.php/Steam/Game-specific\_troubleshooting
