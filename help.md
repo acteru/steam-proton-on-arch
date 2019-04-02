@@ -9,7 +9,12 @@ PROTON_NO_ESYNC=1 %command%
 PROTON_LOG=1 %command%
 ```
 
-# Fix network-connection problems with games like Dragon-Quest:
+# Fix network-connection problems with games like Dragon-Quest(maybe obsolet now):
 ```
 sudo ln -s /usr/lib/libgnutls.so /usr/lib/libgnutls.so26
+```
+
+# Fix flickering of the epicgames launcher (add this in lutris) as Argument
+```
+com.epicgames.launcher://apps/blank?silent=true
 ```
